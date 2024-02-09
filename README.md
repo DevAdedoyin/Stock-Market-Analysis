@@ -86,7 +86,9 @@ The chosen model for the time series forecasting is an LSTM (Long Short-Term Mem
 <b>Library:</b> Keras (utilizing TensorFlow as the backend)
 <b>Model Type:</b> Sequential Model
 
-![image](https://github.com/DevAdedoyin/Stock-Market-Analysis/assets/59482569/3b726462-ea81-494d-80c4-2ada19873883) ![image](https://github.com/DevAdedoyin/Stock-Market-Analysis/assets/59482569/272d5090-7b83-447a-9c4f-a507446db33d)
+![image](https://github.com/DevAdedoyin/Stock-Market-Analysis/assets/59482569/3b726462-ea81-494d-80c4-2ada19873883) 
+
+![image](https://github.com/DevAdedoyin/Stock-Market-Analysis/assets/59482569/272d5090-7b83-447a-9c4f-a507446db33d)
 
 <h3>Analysis and Prediction</h3>
 ![image](https://github.com/DevAdedoyin/Stock-Market-Analysis/assets/59482569/69b7a67e-368c-4746-90e8-7288b932d760)
